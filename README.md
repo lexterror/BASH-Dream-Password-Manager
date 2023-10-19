@@ -13,7 +13,7 @@ Features: <br><br>
 <br>
 Requirements:
 <br><br>
--OpenSSL (apt-get install openssl)
+-OpenSSL (apt-get install openssl)<br>
 -Make sure you test this script before storing important passwords. <br>
 -Make sure you remember the "master" password (a good idea is to keep it short or write it down)<br>
 -Dont forget that with one password you can keep all your important passwords safe.<br>
