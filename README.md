@@ -1,5 +1,5 @@
 # BASH-Dream-Password-Manager<br><br>
-A good way of keeping important passwords stored hidden
+A good and easy way of keeping important passwords stored hidden
 <br><br>
 
 Features: <br><br>
